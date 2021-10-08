@@ -15,7 +15,7 @@ Using R, I started off with uploading and renaming the 12 months of datasets int
 
 Removed trip duration that was showing up as negative. Add columns that listed date, month and day. Add ride_length column to calculate all trips in seconds. Downloaded summieze version of file for tableau based on trips taken per-day in seconds. Using google sheets, converted seconds into hours.
 
-Sites used for coding assistants
+Sites and Docs used for coding assistants
 
 https://grow.google/dataanalytics/#?modal_active=none
 
