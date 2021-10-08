@@ -1,4 +1,4 @@
-# Google-Data-Analytics-Professional-Certificate
+# Google Data Analytics Professional Certificate Capstone Project
 
 The Objective of this Project is to find out how annual members and casual riders use Cyclistic bikes differently.
 Knowing how each bike is used will help the Cyclistic marketing analytics team find the best path to take for their marketing strategy.
